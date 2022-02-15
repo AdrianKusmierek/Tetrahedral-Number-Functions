@@ -2,4 +2,4 @@
 
 var tetra = n => n * (n + 1) * (n + 2) / 6;
 
-console.log(tetra(2));
+console.log(tetra(2)); //Output: 4
