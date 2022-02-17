@@ -1,3 +1,5 @@
+; Tetrahedral Number Function in Assembly
+
 include \masm32\include\masm32rt.inc
 
 .code
