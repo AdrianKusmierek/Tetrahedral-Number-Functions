@@ -19,4 +19,4 @@ tetra:
 main:
    mov eax, 2
    call tetra ; Output: 4
-END main
+end main
