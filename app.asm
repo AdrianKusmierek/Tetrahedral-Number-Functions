@@ -19,6 +19,6 @@ tetra:
    ret
 
 main:
-   mov eax, 2
-   call tetra ; Output: 4
+   mov      eax, 2
+   call     tetra ; Output: 4
 end main
